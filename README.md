@@ -1,1 +1,1 @@
-# estudo_requisicoes_http_react
+# requisicoes_http_react
